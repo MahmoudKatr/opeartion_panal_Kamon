@@ -1,0 +1,200 @@
+[33mcommit fd86a8f9419f7e7279b978df9c6a2370af14f4a8[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Tue Apr 23 01:26:21 2024 +0200
+
+    add toast & test new bar
+
+[33mcommit 7fdb518db7b196b61c45c7b30c8c5ca5af2e71f7[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 6b1f07f 9710a48
+Author: Nader wael <117947652+naderwael1@users.noreply.github.com>
+Date:   Mon Apr 22 19:01:47 2024 +0200
+
+    Merge pull request #1 from naderwael1/detached
+    
+    Detached
+
+[33mcommit 9710a486269e25a5eb227411fbc4f955fa5acca3[m[33m ([m[1;31morigin/detached[m[33m)[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 22 18:05:51 2024 +0200
+
+    marge work
+
+[33mcommit cd5a2db87ebebd26736a048493f233b587efdd02[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 22 17:57:53 2024 +0200
+
+    marge all work
+
+[33mcommit 6b1f07fbc1eb205ba3f222ae434d02aa1309ae25[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Sun Apr 21 15:52:37 2024 +0200
+
+    add postion
+
+[33mcommit 8c8e046d93f75cab65e7a094955fee4fe9ba1ed2[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Sun Apr 21 15:20:44 2024 +0200
+
+    commit
+
+[33mcommit 269cfdee75d678657b2868885d24eb40f2d1ea32[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 18:12:16 2024 +0200
+
+    add table and change textfield to combobox
+
+[33mcommit d3da991c4007969b369fd699e39f1e5f566e3a1e[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 17:15:58 2024 +0200
+
+    add table
+
+[33mcommit 920a31e3244bce2bf277a8649f440f8b4f87a395[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 15:21:56 2024 +0200
+
+    Add Ingredient
+
+[33mcommit 921fb0dea1b2156d1e3a86a3bf09b200f0ad6309[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 14:56:38 2024 +0200
+
+    add storage
+
+[33mcommit 728f7941fca5d507a1cd185d91a53577ab3380c3[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 14:41:40 2024 +0200
+
+    testfiled to comboboxe
+
+[33mcommit 82505ed0e1fd50217ac8323ec2dadc2812410fe6[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 02:51:09 2024 +0200
+
+    add general section
+
+[33mcommit 1b331433cbf10d8bf9733ce1acd52f5bf3e71b5b[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 02:28:41 2024 +0200
+
+    add register employee
+
+[33mcommit b9aa1adde49d3f2f5b749f752504a5c32e6f31c1[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Fri Apr 19 01:03:09 2024 +0200
+
+    add employe
+
+[33mcommit 97520a81818451798b361ea1e6ff13e2d6fb529b[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Thu Apr 18 23:24:54 2024 +0200
+
+    clear code
+
+[33mcommit 80cfe782c1251e6695f0db92c3134f57102408f7[m
+Author: mahmoud <mahmoud.modo@gmail.com>
+Date:   Thu Apr 18 22:16:41 2024 +0200
+
+    add theme and upload menu item
+
+[33mcommit 20dc95fd9198d61638be25621f349bf148bb966b[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Thu Apr 18 04:42:45 2024 +0200
+
+    av and in av emplooyee
+
+[33mcommit caf3faf39d7f68c978891d2f77ad5463ee496680[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Tue Apr 9 02:27:05 2024 +0200
+
+    custom_dropdown.dart
+
+[33mcommit d21f7c76c0cbe877bedc2b70f454ef6834825502[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 13:24:27 2024 +0200
+
+    offline state allemp screen
+
+[33mcommit 600521c21948614686f5133973264dd44d2d0a87[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 13:24:04 2024 +0200
+
+    offline state
+
+[33mcommit 7ee19229a695a4649e8d9b8812eca69a40d37004[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 12:24:11 2024 +0200
+
+    custom_dropdown.dart
+
+[33mcommit 796bc0b03904c2ae6c6c441bedbb98a499df6c67[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 12:12:36 2024 +0200
+
+    get branch name in menu
+
+[33mcommit c054e85e273964edb4d2050d961aa964dc4116d5[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 11:50:10 2024 +0200
+
+    add table
+
+[33mcommit 53746c0b10059889f8775c7ba5a2b66861217746[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 08:05:07 2024 +0200
+
+    nav bar v_1
+
+[33mcommit ef9a903b1d09ed9b1f3564e6d8b78f0a74e80b4a[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Mon Apr 8 07:38:38 2024 +0200
+
+    fix add branch
+
+[33mcommit 15ce201da56e1498176316142f31a3ab852e0a46[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Fri Apr 5 07:53:53 2024 +0200
+
+    add now home
+
+[33mcommit ac35ad70546f0b9705363ec1c68e4b9b71f6d802[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Fri Apr 5 07:42:39 2024 +0200
+
+    add now home
+
+[33mcommit 08782ab586e4a72e6d70a61c83b2665f5da6e60e[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Fri Apr 5 06:36:59 2024 +0200
+
+    add float button
+
+[33mcommit dd168ecc57e7f7be64ede07b1a2b72f28d39bfcb[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Fri Apr 5 02:16:53 2024 +0200
+
+    add branch
+
+[33mcommit c5ab9b080ce02ba1d722b51381d94996fb41f819[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Wed Apr 3 17:01:41 2024 +0200
+
+    exception when add error
+
+[33mcommit b0fb6c443387f341d2d51a9149d93ff808bd7bbc[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Wed Apr 3 16:12:58 2024 +0200
+
+    edit update_employee.dart
+
+[33mcommit b924714853f8e45d105d3be5626e04d702202b05[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Wed Apr 3 15:53:56 2024 +0200
+
+    edit update_employee.dart
+
+[33mcommit 2f22465ae5e466592501bf7faddbe2c44097a680[m
+Author: Nader wael <naderwael39@gmail.com>
+Date:   Wed Apr 3 15:04:57 2024 +0200
+
+    get_branch
